@@ -3,7 +3,9 @@
 This system is a real-time AI voice agent designed to handle live phone conversations with low latency. It uses a streaming pipeline over WebSockets to process audio, generate responses, and return synthesized speech in near real-time.
 
 ---
-
+<p align="center">
+  <img src="./ai-agent.png" width="800"/>
+</p>
 ## ⚙️ How It Works
 
 1. **Call Initiation**
